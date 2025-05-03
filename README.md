@@ -1,3 +1,6 @@
+
+Notice: This project is not complete yet, currently i am working on this project
+
 #                                                                       Samvad
 
 _Samvad_ (સંવાદ) is a web application designed to bridge the communication gap between deaf/mute users and hearing users by providing an interactive sign‐language learning platform and real-time sign/text conversion tools. Built with React and Tailwind CSS, Samvad offers a clean, responsive UI, on-device gesture recognition, and video‐based lessons to empower users in both learning and daily communication.
